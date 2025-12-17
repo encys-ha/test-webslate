@@ -1,1 +1,8 @@
-{}
+{
+    "CLOSE_BUTTON": "Zatvorit",
+    "SAVE_BUTTON": "Ulozit",
+    "CANCEL_BUTTON": "Zrusit",
+    "SUBMIT_BUTTON": "Potvrdit",
+    "DELETE_BUTTON": "Zmazat",
+    "EDIT_BUTTON": "Upravit"
+}
