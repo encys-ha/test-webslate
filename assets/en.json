@@ -1,0 +1,17 @@
+{
+  "CLOSE_BUTTON": "Close",
+  "SAVE_BUTTON": "Save",
+  "CANCEL_BUTTON": "Cancel",
+  "SUBMIT_BUTTON": "Submit",
+  "DELETE_BUTTON": "Delete",
+  "EDIT_BUTTON": "Edit",
+  "HOME_TITLE": "Home",
+  "WELCOME_MESSAGE": "Welcome to our website",
+  "LOGIN_LABEL": "Login",
+  "LOGOUT_LABEL": "Logout",
+  "SEARCH_PLACEHOLDER": "Search...",
+  "LOADING_TEXT": "Loading",
+  "ERROR_MESSAGE": "An error occurred",
+  "SUCCESS_MESSAGE": "Success!",
+  "CONFIRM_ACTION": "Are you sure?"
+}
